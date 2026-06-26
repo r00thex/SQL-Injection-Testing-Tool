@@ -30,7 +30,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/r00thex/SQL-Injection-Testing-Tool.git
-   cd 
+   cd SQL-Injection-Testing-Tool
    ```
 
 2. Install dependencies:
@@ -40,7 +40,7 @@
 
 3. Run the tool:
    ```bash
-   python 
+   python ROot.py
    ```
 ## Usage
 
@@ -78,7 +78,7 @@ Detected vulnerabilities are logged in `vulnerable_urls.txt`. A detailed report 
 
 ### Testing a URL with Default Payloads
 ```bash
-python 
+python ROot.py
 1
 http://example.com/page?id=1
 id
@@ -89,7 +89,7 @@ n
 
 ### Testing a File of URLs with Cookies
 ```bash
-python detected.py
+python ROot.py
 2
 urls.txt
 id
