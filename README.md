@@ -1,8 +1,8 @@
 # SQL-Injection-Testing-Tool
 
 
-# Detected: SQL Injection Testing Tool
-**Detected** is a powerful and user-friendly tool designed to detect SQL injection vulnerabilities in web applications. It supports both GET and POST requests, custom payloads, cookies for authenticated testing, and generates detailed JSON reports.
+# ROot: SQL Injection Testing Tool
+**ROot** is a powerful and user-friendly tool designed to detect SQL injection vulnerabilities in web applications. It supports both GET and POST requests, custom payloads, cookies for authenticated testing, and generates detailed JSON reports.
 
 ---
 
@@ -29,7 +29,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/r00thex/SQL-Injection-Testing-Tool.git
    cd 
    ```
 
@@ -48,7 +48,7 @@
 
 1. Run the tool:
    ```bash
-   python 
+   python ROot.py
    ```
 
 2. Choose option `1` to test a single URL.
@@ -60,7 +60,7 @@
 
 1. Run the tool:
    ```bash
-   python 
+   python ROot.py
    ```
 
 2. Choose option `2` to test a file of URLs.
