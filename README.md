@@ -1,7 +1,5 @@
 # SQL-Injection-Testing-Tool
 
-
-# ROot: SQL Injection Testing Tool
 **ROot** is a powerful and user-friendly tool designed to detect SQL injection vulnerabilities in web applications. It supports both GET and POST requests, custom payloads, cookies for authenticated testing, and generates detailed JSON reports.
 
 ---
